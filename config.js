@@ -80,7 +80,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://www.lightningmaps.org/blitzortung/europe/index.php?bo_page=archive&bo_map=europe_full_big&lang=en&bo_year=2025&bo_month=05&bo_day=30&bo_hour_from=0&bo_hour_range=24#bo_arch_strikes_maps_form",
+    "iframe|https://map.blitzortung.org/index.php?interactive=0&NavigationControl=0&FullScreenControl=0&Cookies=0&InfoDiv=0&MenuButtonDiv=1&ScaleControl=1&LinksCheckboxChecked=1&LinksRangeValue=10&MapStyle=0&MapStyleRangeValue=0&Advertisment=0#5/51.2/10.0",
   ],
   [
     "LIGHTNING LOCAL",
