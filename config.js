@@ -60,7 +60,7 @@ var aIMG = [
   ["RADAR", "https://www.accuweather.com/en/gb/national/weather-radar"],
   [
     "LOCAL RADAR",
-    "https://maptiler.infoplaza.io/api/maps/Border/static/-4.14,53.94,5.7/1560x1560.png?attribution=false",
+    "https://maptiler.infoplaza.io/api/maps/Border/static/-4.14,53.94,5.7/1560x1560.png?attribution=true",
   ],
   [
     "NOAA Solar Image",
