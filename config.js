@@ -60,12 +60,13 @@ var aIMG = [
   ["RADAR", "https://www.accuweather.com/en/gb/national/weather-radar"],
   [
     "LOCAL RADAR",
-    "https://maptiler.infoplaza.io/api/maps/Border/static/-4.14,53.94,5.7/1560x1560.png?attribution=true",
+    "https://maptiler.infoplaza.io/api/maps/Border/static/-4.14,53.94,5.7/1560x1560.png",
   ],
   [
     "NOAA Solar Image",
     "https://services.swpc.noaa.gov/images/animations/suvi/primary/195/latest.png",
   ],
+  
   [
     "ISS POSITION",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
