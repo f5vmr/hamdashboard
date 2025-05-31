@@ -57,7 +57,7 @@ var aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 var aIMG = [
-  ["RADAR", "iframe|https://www.accuweather.com/en/gb/national/weather-radar"],
+  ["DMR repeater", "iframe|https://gb7ht.ddns.net:8080"],
   [
     "LOCAL RADAR",
     "https://maptiler.infoplaza.io/api/maps/Border/static/-4.14,53.94,5.7/1560x1560.png",
