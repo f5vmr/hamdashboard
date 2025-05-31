@@ -92,7 +92,7 @@ var aIMG = [
     "Aircraft Local Radar",
     "iframe|https://globe.adsbexchange.com/?airport=EGNT",
   ],
-  ["Local Weather", "https://weather.metoffice.gov.uk/maps-and-charts/images/icons/weather-data/location_dot_6x6.abe10821.svg"],
+  ["Local Weather", "https://wxcharts.com/charts/gfs/europe/charts/overview_20250531_06_003.jpg?"],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"],
 ];
