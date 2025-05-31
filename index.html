@@ -1135,7 +1135,7 @@ var tileDelay = ${JSON.stringify(settings.aImages.map(item => item[2]), null, 2)
       async function getLatestVersion() {
         try {
           const response = await fetch(
-            "https://api.github.com/repos/VA3HDL/hamdashboard/releases/latest"
+            "https://api.github.com/repos/g4nab/hamdashboard/releases/latest"
           );
           const data = await response.json();
           return data.tag_name;
@@ -1275,7 +1275,7 @@ var tileDelay = ${JSON.stringify(settings.aImages.map(item => item[2]), null, 2)
           document.getElementById("overlay").style.display = "block";
         } else if (aURL[num][1].toLowerCase() == "update") {
           window
-            .open("https://github.com/VA3HDL/hamdashboard/releases/", "_blank")
+            .open("https://github.com/f5vmr/hamdashboard/releases/", "_blank")
             .focus();
         } else if (aURL[num][1].toLowerCase() == "back"){
           document.getElementById("FullScreen").src = "about:blank";
