@@ -89,7 +89,7 @@ var aIMG = [
   ["YOUTUBE G4NAB", "iframe|https://www.youtube.com/embed/sHSptPgCXoU?autoplay=1&mute=1"],
 
   [
-    "WEBSITE EXAMPLE",
+    "Aircraft Local Radar",
     "iframe|https://globe.adsbexchange.com/?airport=EGNT",
   ],
   ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
