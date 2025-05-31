@@ -10,7 +10,7 @@ var layout_rows = 3;
 // The values are [color code, menu text, target link, scale factor, side],
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
-  ["2196F3", "CLUBLOG", "https://qrz.com/db/QX4AAX", "1.7"],
+  ["2196F3", "CLUBLOG", "https://qrz.com/db/GX4AAX", "1.7"],
   [
     "2196F3",
     "CONTEST",
@@ -57,14 +57,14 @@ var aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 var aIMG = [
-  ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
+  ["RADAR", "https://www.accuweather.com/en/gb/national/weather-radar"],
   [
     "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
+    "https://www.accuweather.com/en/gb/ashington/ne63-9/weather-forecast/2530570",
   ],
   [
     "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "https://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap",
   ],
   [
     "ISS POSITION",
@@ -80,13 +80,14 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://www.lightningmaps.org/blitzortung/europe/index.php?bo_page=archive&bo_map=0&bo_animation=now",
   ],
   [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_ny.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["YOUTUBE G4NAB", "iframe|https://www.youtube.com/embed/sHSptPgCXoU?autoplay=1&mute=1"],
+
   [
     "WEBSITE EXAMPLE",
     "iframe|https://globe.adsbexchange.com/?airport=YYZ",
