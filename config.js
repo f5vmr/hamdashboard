@@ -80,7 +80,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "iframe|https://map.blitzortung.org/index.php?interactive=0&NavigationControl=0&FullScreenControl=0&Cookies=0&InfoDiv=0&MenuButtonDiv=1&ScaleControl=1&LinksCheckboxChecked=1&LinksRangeValue=10&MapStyle=0&MapStyleRangeValue=0&Advertisment=0#5/51.2/10.0",
+    "https://www.blitzortung.org/en/PHP/make_maps.php?parameter_file=Tmp/query_data_1748706959",
   ],
   [
     "LIGHTNING LOCAL",
