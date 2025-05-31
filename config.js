@@ -84,7 +84,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "https://www.blitzortung.org/en/PHP/make_maps.php?parameter_file=Tmp/query_data_1748707073",
   ],
   ["YOUTUBE G4NAB", "iframe|https://www.youtube.com/embed/sHSptPgCXoU?autoplay=1&mute=1"],
 
