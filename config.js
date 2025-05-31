@@ -92,7 +92,7 @@ var aIMG = [
     "Aircraft Local Radar",
     "iframe|https://globe.adsbexchange.com/?airport=EGNT",
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+  ["Local Weather", "https://api.open-meteo.com/v1/forecast?latitude=55.181&longitude=-1.5465&hourly=temperature_2m&current=temperature_2m,precipitation&timezone=auto&wind_speed_unit=kn"],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"],
 ];
