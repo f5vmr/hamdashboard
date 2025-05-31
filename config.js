@@ -1,5 +1,5 @@
 const disableSetup = false;
-var topBarCenterText = `VA3HDL - FN04ga`;
+var topBarCenterText = `GX4AAX - IO95FF`;
 
 // Grid layout
 var layout_cols = 4;
@@ -10,7 +10,7 @@ var layout_rows = 3;
 // The values are [color code, menu text, target link, scale factor, side],
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/VA3HDL", "1.7"],
+  ["2196F3", "CLUBLOG", "https://qrz.com/db/QX4AAX", "1.7"],
   [
     "2196F3",
     "CONTEST",
@@ -21,15 +21,15 @@ var aURL = [
   [
     "2196F3",
     "LIGHTNING",
-    "https://map.blitzortung.org/#3.87/36.5/-89.41",
+    "https://map.blitzortung.org/#3.87/36.5/18.41",
     "1",
     "R",
   ],
-  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
+  ["2196F3", "PISTAR", "http://192.168.1.60/", "1.2"],
   [
     "2196F3",
     "RADAR",
-    "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON",
+    "https://weather.gc.ca/?layers=alert,radar&center=54.0,18.0&zoom=6&alertTableFilterProv=ON",
     "1",
     "R"
   ],
@@ -37,14 +37,14 @@ var aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=44.0157&lon=-79.4591&zoom=5",
+    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=52.0157&lon=-1.4591&zoom=5",
     "1",
     "R",
   ],
   [
     "2196F3",
     "WINDS",
-    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-78.79,44.09,3000",
+    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-1.5,55.09,3000",
     "1",
     "R",
   ],
