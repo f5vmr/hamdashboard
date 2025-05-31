@@ -90,7 +90,7 @@ var aIMG = [
 
   [
     "WEBSITE EXAMPLE",
-    "iframe|https://globe.adsbexchange.com/?airport=YYZ",
+    "iframe|https://globe.adsbexchange.com/?airport=EGNT",
   ],
   ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
   ["HF PROPAGATION",
