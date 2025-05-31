@@ -63,8 +63,8 @@ var aIMG = [
     "https://www.accuweather.com/en/gb/ashington/ne63-9/weather-forecast/2530570",
   ],
   [
-    "NOAA D-RAP",
-    "https://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap",
+    "NOAA Solar Image",
+    "https://services.swpc.noaa.gov/images/animations/suvi/primary/195/latest.png",
   ],
   [
     "ISS POSITION",
