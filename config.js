@@ -60,7 +60,7 @@ var aIMG = [
   ["RADAR", "https://www.accuweather.com/en/gb/national/weather-radar"],
   [
     "LOCAL RADAR",
-    "https://www.accuweather.com/en/gb/ashington/ne63-9/weather-forecast/2530570",
+    "https://maptiler.infoplaza.io/api/maps/Border/static/-4.14,53.94,5.7/1560x1560.png?attribution=false",
   ],
   [
     "NOAA Solar Image",
